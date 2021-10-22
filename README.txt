@@ -1,0 +1,1 @@
+Halo,Cv berbasis web ini dibuat menggunakan Html&css,javascript,Terdapat 4 button utama,yaitu "experience","skill","about","contact",program ini bisa dimanfaatkan sebagai portofolio berbasis web.
